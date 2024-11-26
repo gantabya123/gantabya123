@@ -113,7 +113,7 @@
   </footer>
 
 </body>
-</html>
+
 /* Basic Reset */
 * {
   margin: 0;
